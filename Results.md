@@ -29,4 +29,9 @@ URL: https://hub.docker.com/repository/docker/syeaman1693/servian-techchallenge
   - I had Triggered my Terraform scripts from Azure Cloud Shell. unfortunately couldn't work on Azure DevOps CI/CD pipeline for deploying the terraform scripts due to time constraint.
 
 ### Final Results
+![Git Hub](https://github.com/amansyed931/TechChallengeApp/blob/master/Terraform-Scripts/GitHub%20Repo.PNG)
+![DockerHub-AutoBuild](https://github.com/amansyed931/TechChallengeApp/blob/master/Terraform-Scripts/DockerHub-AutoBuild-1.PNG)
+![ACI-Container](https://github.com/amansyed931/TechChallengeApp/blob/master/Terraform-Scripts/ACI-Containers.PNG)
+![Servian](https://github.com/amansyed931/TechChallengeApp/blob/master/Terraform-Scripts/Servian-Snip.PNG)
+![Swagger](https://github.com/amansyed931/TechChallengeApp/blob/master/Terraform-Scripts/Swagger.PNG)
 
